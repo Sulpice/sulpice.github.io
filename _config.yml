@@ -8,7 +8,7 @@ middle_name:
 last_name: Amonle
 email: sulpiceamonle@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Sulpice Amonle, Ph.D. candidate in Agricultural and International Economics at Université Laval. Research in international trade, macroeconomics, and environmental economics.
 footer_text: >
 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
