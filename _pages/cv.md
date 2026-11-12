@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 <p>
 <a href="{{ 'assets/pdf/Resume_Sulpice_Amonle.pdf' | relative_url }}" target="_blank" style="display:inline-block; padding:6px 14px; border:1px solid var(--global-theme-color); border-radius:4px; color:var(--global-theme-color); font-weight:500;">Download CV (PDF)</a>
